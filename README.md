@@ -78,3 +78,6 @@ I take time to understand *why* access is granted, not just *how*.
 These labs reflect how IAM work is performed in real environments —  
 **access is verified, reviewed, and governed**, not assumed.
 
+---
+
+# 🔐 PKI Labs (Public Key Infrastructure)
