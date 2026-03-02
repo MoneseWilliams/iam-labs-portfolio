@@ -80,4 +80,4 @@ These labs reflect how IAM work is performed in real environments —
 
 ---
 
-# 🔐 PKI Labs (Public Key Infrastructure)
+
